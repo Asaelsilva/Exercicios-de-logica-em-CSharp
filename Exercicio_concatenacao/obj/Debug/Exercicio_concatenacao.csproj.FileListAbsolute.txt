@@ -1,0 +1,7 @@
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_concatenacao\bin\Debug\Exercicio_concatenacao.exe.config
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_concatenacao\bin\Debug\Exercicio_concatenacao.exe
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_concatenacao\bin\Debug\Exercicio_concatenacao.pdb
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_concatenacao\obj\Debug\Exercicio_concatenacao.csprojAssemblyReference.cache
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_concatenacao\obj\Debug\Exercicio_concatenacao.csproj.CoreCompileInputs.cache
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_concatenacao\obj\Debug\Exercicio_concatenacao.exe
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_concatenacao\obj\Debug\Exercicio_concatenacao.pdb

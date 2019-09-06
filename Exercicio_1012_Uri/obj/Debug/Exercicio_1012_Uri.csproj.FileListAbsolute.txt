@@ -1,0 +1,7 @@
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1012_Uri\bin\Debug\Exercicio_1012_Uri.exe.config
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1012_Uri\bin\Debug\Exercicio_1012_Uri.exe
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1012_Uri\bin\Debug\Exercicio_1012_Uri.pdb
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1012_Uri\obj\Debug\Exercicio_1012_Uri.csproj.CoreCompileInputs.cache
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1012_Uri\obj\Debug\Exercicio_1012_Uri.exe
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1012_Uri\obj\Debug\Exercicio_1012_Uri.pdb
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1012_Uri\obj\Debug\Exercicio_1012_Uri.csprojAssemblyReference.cache

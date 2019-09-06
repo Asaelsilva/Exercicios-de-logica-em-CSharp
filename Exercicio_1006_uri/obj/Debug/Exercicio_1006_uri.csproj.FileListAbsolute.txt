@@ -1,0 +1,7 @@
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1006_uri\bin\Debug\Exercicio_1006_uri.exe.config
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1006_uri\bin\Debug\Exercicio_1006_uri.exe
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1006_uri\bin\Debug\Exercicio_1006_uri.pdb
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1006_uri\obj\Debug\Exercicio_1006_uri.csprojAssemblyReference.cache
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1006_uri\obj\Debug\Exercicio_1006_uri.csproj.CoreCompileInputs.cache
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1006_uri\obj\Debug\Exercicio_1006_uri.exe
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1006_uri\obj\Debug\Exercicio_1006_uri.pdb

@@ -1,0 +1,6 @@
+C:\Users\Asael\source\repos\Exercicios_Csharp\Conversao_De_Tempo\bin\Debug\Conversao_De_Tempo.exe.config
+C:\Users\Asael\source\repos\Exercicios_Csharp\Conversao_De_Tempo\bin\Debug\Conversao_De_Tempo.exe
+C:\Users\Asael\source\repos\Exercicios_Csharp\Conversao_De_Tempo\bin\Debug\Conversao_De_Tempo.pdb
+C:\Users\Asael\source\repos\Exercicios_Csharp\Conversao_De_Tempo\obj\Debug\Conversao_De_Tempo.csproj.CoreCompileInputs.cache
+C:\Users\Asael\source\repos\Exercicios_Csharp\Conversao_De_Tempo\obj\Debug\Conversao_De_Tempo.exe
+C:\Users\Asael\source\repos\Exercicios_Csharp\Conversao_De_Tempo\obj\Debug\Conversao_De_Tempo.pdb

@@ -1,0 +1,6 @@
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1009-Uri\bin\Debug\Exercicio_1009-Uri.exe.config
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1009-Uri\bin\Debug\Exercicio_1009-Uri.exe
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1009-Uri\bin\Debug\Exercicio_1009-Uri.pdb
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1009-Uri\obj\Debug\Exercicio_1009-Uri.csproj.CoreCompileInputs.cache
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1009-Uri\obj\Debug\Exercicio_1009-Uri.exe
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1009-Uri\obj\Debug\Exercicio_1009-Uri.pdb

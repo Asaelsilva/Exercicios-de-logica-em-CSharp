@@ -1,0 +1,7 @@
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1\obj\Debug\Exercicio_1.csprojAssemblyReference.cache
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1\obj\Debug\Exercicio_1.csproj.CoreCompileInputs.cache
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1\bin\Debug\Exercicio_1.exe.config
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1\bin\Debug\Exercicio_1.exe
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1\bin\Debug\Exercicio_1.pdb
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1\obj\Debug\Exercicio_1.exe
+C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1\obj\Debug\Exercicio_1.pdb

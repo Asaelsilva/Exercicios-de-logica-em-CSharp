@@ -1,0 +1,7 @@
+C:\Users\Asael\source\repos\Exercicios_Csharp\Eercicio_base_altura\obj\Debug\Exercicio_base_altura.csprojAssemblyReference.cache
+C:\Users\Asael\source\repos\Exercicios_Csharp\Eercicio_base_altura\obj\Debug\Exercicio_base_altura.csproj.CoreCompileInputs.cache
+C:\Users\Asael\source\repos\Exercicios_Csharp\Eercicio_base_altura\bin\Debug\Eercicio_base_altura.exe.config
+C:\Users\Asael\source\repos\Exercicios_Csharp\Eercicio_base_altura\bin\Debug\Eercicio_base_altura.exe
+C:\Users\Asael\source\repos\Exercicios_Csharp\Eercicio_base_altura\bin\Debug\Eercicio_base_altura.pdb
+C:\Users\Asael\source\repos\Exercicios_Csharp\Eercicio_base_altura\obj\Debug\Eercicio_base_altura.exe
+C:\Users\Asael\source\repos\Exercicios_Csharp\Eercicio_base_altura\obj\Debug\Eercicio_base_altura.pdb
