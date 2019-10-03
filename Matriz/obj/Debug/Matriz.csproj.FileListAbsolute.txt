@@ -1,0 +1,7 @@
+C:\Users\asael\source\repos\Exercicios-de-logica-em-CSharp-master\Matriz\bin\Debug\Matriz.exe.config
+C:\Users\asael\source\repos\Exercicios-de-logica-em-CSharp-master\Matriz\bin\Debug\Matriz.exe
+C:\Users\asael\source\repos\Exercicios-de-logica-em-CSharp-master\Matriz\bin\Debug\Matriz.pdb
+C:\Users\asael\source\repos\Exercicios-de-logica-em-CSharp-master\Matriz\obj\Debug\Matriz.csprojAssemblyReference.cache
+C:\Users\asael\source\repos\Exercicios-de-logica-em-CSharp-master\Matriz\obj\Debug\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\asael\source\repos\Exercicios-de-logica-em-CSharp-master\Matriz\obj\Debug\Matriz.exe
+C:\Users\asael\source\repos\Exercicios-de-logica-em-CSharp-master\Matriz\obj\Debug\Matriz.pdb

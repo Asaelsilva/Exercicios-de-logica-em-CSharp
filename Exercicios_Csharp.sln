@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversao_De_Tempo", "Conve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_1018_Uri", "Exercicio_1018_Uri\Exercicio_1018_Uri.csproj", "{C3AD6C47-D3EB-41BF-B9E1-5AA3DCDBAB53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matriz", "Matriz\Matriz.csproj", "{1E7C149C-868D-4333-8029-46E07E4FB231}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{C3AD6C47-D3EB-41BF-B9E1-5AA3DCDBAB53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3AD6C47-D3EB-41BF-B9E1-5AA3DCDBAB53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3AD6C47-D3EB-41BF-B9E1-5AA3DCDBAB53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E7C149C-868D-4333-8029-46E07E4FB231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E7C149C-868D-4333-8029-46E07E4FB231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E7C149C-868D-4333-8029-46E07E4FB231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E7C149C-868D-4333-8029-46E07E4FB231}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

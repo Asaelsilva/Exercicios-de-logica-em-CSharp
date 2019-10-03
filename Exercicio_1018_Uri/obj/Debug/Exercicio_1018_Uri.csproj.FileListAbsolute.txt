@@ -5,3 +5,10 @@ C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1018_Uri\obj\Debug\Exerc
 C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1018_Uri\obj\Debug\Exercicio_1018_Uri.csproj.CoreCompileInputs.cache
 C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1018_Uri\obj\Debug\Exercicio_1018_Uri.exe
 C:\Users\Asael\source\repos\Exercicios_Csharp\Exercicio_1018_Uri\obj\Debug\Exercicio_1018_Uri.pdb
+C:\Users\asael\source\repos\Exercicios-de-logica-em-CSharp-master\Exercicio_1018_Uri\bin\Debug\Exercicio_1018_Uri.exe.config
+C:\Users\asael\source\repos\Exercicios-de-logica-em-CSharp-master\Exercicio_1018_Uri\bin\Debug\Exercicio_1018_Uri.exe
+C:\Users\asael\source\repos\Exercicios-de-logica-em-CSharp-master\Exercicio_1018_Uri\bin\Debug\Exercicio_1018_Uri.pdb
+C:\Users\asael\source\repos\Exercicios-de-logica-em-CSharp-master\Exercicio_1018_Uri\obj\Debug\Exercicio_1018_Uri.csprojAssemblyReference.cache
+C:\Users\asael\source\repos\Exercicios-de-logica-em-CSharp-master\Exercicio_1018_Uri\obj\Debug\Exercicio_1018_Uri.csproj.CoreCompileInputs.cache
+C:\Users\asael\source\repos\Exercicios-de-logica-em-CSharp-master\Exercicio_1018_Uri\obj\Debug\Exercicio_1018_Uri.exe
+C:\Users\asael\source\repos\Exercicios-de-logica-em-CSharp-master\Exercicio_1018_Uri\obj\Debug\Exercicio_1018_Uri.pdb
